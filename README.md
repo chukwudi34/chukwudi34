@@ -5,7 +5,7 @@
   <p>I Educate developers to excel in thier craft and building solutions that deliver real value to users.</p>
   
   <p align="left">
-    💻 Am a strong fan of <strong>HTML, CSS, Javascript, React, Vue.js, PHP,  Laravel, Node.js.</strong>
+    💻 Am a strong fan of <strong>HTML, CSS, Javascript, React, Vue.js, PHP,  Laravel, Angular.js, CraftCMS,  Node.js.</strong>
   </p>
 
   <p align="left" dir="auto">
