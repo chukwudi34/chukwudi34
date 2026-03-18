@@ -1,2 +1,6 @@
-# 💫 About Me:
-I’m a web developer focused on building useful products for real people. I enjoy turning ideas into practical, scalable digital solutions and creating applications that solve real-world problems and have the potential to grow into impactful businesses.<br>Student at Tai solarin Federal University Of Education,Newsletter writer and a content creator.
+<h1 align="center">Hi 👋, I'm Chukwudi</h1>
+<h3 align="center">I'm a Web Developer, helping others become one too.</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
