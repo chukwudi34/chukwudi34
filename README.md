@@ -1,6 +1,6 @@
 <div class="box">
   <h1 align="left">Hi there 👋,</h1>
-  <h4 align="left">I'm Chukwudi ~ The Standout Dev;</h4>
+  <h4 align="left">I'm Chukwudi Nwafor ~ The Standout Dev;</h4>
 
   <p>I Educate developers to excel in thier craft and building solutions that deliver real value to users.</p>
   
